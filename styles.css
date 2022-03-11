@@ -1,0 +1,72 @@
+body{
+    background-color: gray;
+}
+section{
+    
+    border-radius:20px;
+    box-shadow:  5px 10px 15px rgb(240, 255, 194);
+    padding:20px;
+    width: 80%;
+    margin: 40px auto;
+    background-color: white;
+}
+h1{
+    width: 60%;
+    margin: 50px auto;
+    padding:30px;
+    text-align: center;
+    font-size: 46px;
+    color: white ;
+    
+     
+}
+
+.color{
+    display: inline-flex;
+    padding:10px ;
+    margin:20px 20px;
+    width: 150px;
+    border-radius: 20px;
+   
+}
+.fonts{
+    display: inline-block;
+    padding:20px ;
+    margin:20px 20px;
+    width: 250px;
+}
+
+
+
+#blue {
+    background-color:rgb(191, 255, 240) ;
+}
+
+#green{
+    background-color:rgb(240, 255, 194) ;
+
+}
+
+#beige{
+    background-color: rgb(255, 228, 192) ;
+}
+
+#pink{
+    background-color:rgb(255, 187, 187) ;
+}
+
+#font1{
+    font-family: 'Sansita Swashed', cursive;
+}
+
+#font2{
+    font-family: 'Dosis', sans-serif;
+}
+
+#font3{
+    font-family: 'Satisfy', cursive;
+}
+#h1{
+    font-size:26px;
+
+}
